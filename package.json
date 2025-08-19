@@ -1,0 +1,32 @@
+{
+  "name": "js_practice",
+  "version": "1.0.0",
+  "description": "not too much to say about this, just doing a quick dive into vanilla react 🙃",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/symienMoore/vanilla-react-review.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/symienMoore/vanilla-react-review/issues"
+  },
+  "homepage": "https://github.com/symienMoore/vanilla-react-review#readme",
+  "dependencies": {
+    "@tanstack/react-router": "^1.131.26",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "vite": "^7.1.2"
+  }
+}
